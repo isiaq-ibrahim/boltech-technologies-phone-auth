@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "739790375332",
+    "project_id": "boltech-technologies-phone-aut",
+    "storage_bucket": "boltech-technologies-phone-aut.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739790375332:android:5e5d80c8c25b0761901931",
+        "android_client_info": {
+          "package_name": "developer.boltech.phoneauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHxL9YT_shb-m9fRlozyhGD83loVAj7aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739790375332:android:b5b4524304b6fd56901931",
+        "android_client_info": {
+          "package_name": "developer.boltech.technologies.phoneauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHxL9YT_shb-m9fRlozyhGD83loVAj7aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
