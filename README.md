@@ -13,7 +13,10 @@ Android Studio Iguana 2023.2.1 Patch 2
 
 ## Project Setup
 Follow the following steps to ensure you can successfully open the project without any errors:
-1. Clone this GitHub repo (Make sure to use Android Studio Iguana 2023.2.1 Patch 2) by clicking on the "Get from VCS" Button when you launch Android Studio
+1. Clone this GitHub repo (Make sure to use Android Studio Iguana 2023.2.1 Patch 2) by clicking on the "Get from VCS" Button when you launch Android Studio. ALternatively, you can clone this GitHub repository by running the following
+```sh
+git clone https://github.com/isiaq-ibrahim/boltech-technologies-phone-auth.git
+```
 2. Make sure your laptop/desktop is connected to the internet, download the gradle-version zip, and wait for your project to finish building.
 3. Once the build is complete, you can delete the google-json file and connect your Android Studio to Firebase.
 4. After setting up your Firebase, clean and rebuild the project. Then sync the files and build/generate your APK file.
