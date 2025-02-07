@@ -4,10 +4,11 @@ Boltech Technologies Phone Auth app is a simple Android mobile application that 
 2. minimum of one upper-case letter
 3. minimum of one digit number
 4. minimum of one special character
+![Boltech Technologies Screenshot Register Button Disabled](app/src/main/res/drawable/app-screenshot-two.png)
 
 # How it works:
 If one of the requirements is not met, the register button is disabled, and the user cannot register an account on the app.
-![Boltech Technologies Screenshot Register Button Disabled](app/src/main/res/drawable/app-screenshot-one.png)
+![Boltech Technologies Screenshot Register Button Enabled](app/src/main/res/drawable/app-screenshot-one.png)
 
 ## Recommended IDE
 Android Studio Iguana 2023.2.1 Patch 2
